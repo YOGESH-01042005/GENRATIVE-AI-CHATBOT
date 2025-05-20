@@ -115,9 +115,6 @@ if __name__ == "__main__":
     chat()
 ```
 
-## System Architecture
-![pro1](https://github.com/user-attachments/assets/7c608ac3-4142-48cc-866a-b495c4121ab5)
-
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
