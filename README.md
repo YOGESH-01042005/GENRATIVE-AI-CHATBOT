@@ -1,3 +1,9 @@
+# Ex.No: 10 Learning – Use Supervised Learning  
+### DATE:                                                                            
+### REGISTER NUMBER :212222060308
+### AIM: 
+To write a program to train the classifier for generative AI chatbot.
+###  Algorithm:
 ## GENRATIVE AI CHATBOT
 This project focuses on the development of a Generative AI (GAI) chatbot that leverages advanced natural language processing (NLP) techniques to provide intuitive and context-aware conversations. The chatbot utilizes transformer-based models, such as GPT, to understand user inputs and generate human-like responses across various domains, including customer support, healthcare, and education.
  
