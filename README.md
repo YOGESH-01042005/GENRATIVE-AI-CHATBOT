@@ -1,6 +1,6 @@
 ## GENRATIVE AI CHATBOT
 This project focuses on the development of a Generative AI (GAI) chatbot that leverages advanced natural language processing (NLP) techniques to provide intuitive and context-aware conversations. The chatbot utilizes transformer-based models, such as GPT, to understand user inputs and generate human-like responses across various domains, including customer support, healthcare, and education.
-
+ 
 ## About
 Generative AI chatbots are poweredbydeeplearning models, particularly transformer-basedarchitectures like the Generative PretrainedTransformer (GPT). Unlike traditional chatbotsthat rely on predefined responses, GAI chatbotsgenerate responses in real-time basedoncontextand the information at hand. These modelsaretrained on vast datasets containingdiverselinguistic patterns, which allowthemtoproducecontext-aware answers that can handleawiderange of topics and conversational nuances.GPT and other similar models are designedtocapture intricate language patternsandcontextual cues, enabling more coherent andengaging conversations. As a result, GAIchatbots offer a more dynamic, personalizedexperience for users across various domains.
 
